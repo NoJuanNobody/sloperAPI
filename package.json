@@ -70,7 +70,7 @@
     "mongoose": "^5.5.2",
     "morgan": "^1.9.1",
     "swagger-ui-express": "^4.0.4",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "vector": "^0.0.4"
   },
   "config": {
